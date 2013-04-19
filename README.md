@@ -1,2 +1,1 @@
-uniqname.github.io
-==================
+Personalized Cleaned up boilerplate for HTML5
